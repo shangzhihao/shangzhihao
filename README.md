@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Zhihao Shang 👋
 
-<!--
-**shangzhihao/shangzhihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Ph.D. in Computer Science** (Freie Universität Berlin)
+🔬 Researcher in **Deep Learning** at Zhengzhou University of Light Industry
+🔭 Currently working on **time series forecasting models** and **LLMs**
+🧠 Trying to apply my research results into industry
 
-Here are some ideas to get you started:
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/shangzhihao)
+- 🌐 [Google Scholar](https://scholar.google.ch/citations?user=bPtby7UAAAAJ&hl=en&oi=ao)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐️ From [shangzhihao](https://github.com/shangzhihao)
